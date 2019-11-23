@@ -1,0 +1,242 @@
+ @media (min-width:1200px) {
+     .header_section .social_mobile {
+         opacity: 0:
+     }
+
+     .header_section .social_mobile {
+         opacity: 0;
+     }
+
+     .btn_question {
+         font-size: 16px;
+     }
+ }
+
+
+ @media (max-width:1199px) {
+     .heading h1 {
+         font-size: 70px;
+     }
+     .heading span {
+    font-size: 75px;
+     }
+     .about_section .heading span {
+         font-size: 90px;
+     }
+
+     .header_section .social_mobile {
+         opacity: 0;
+     }
+
+     .project h3 {
+         font-size: 35px;
+     }
+
+     .project h2 {
+         font-size: 35px;
+     }
+
+     .btn_question {
+         font-size: 16px;
+     }
+
+     .name,
+     .email {
+         width: 47.5%;
+     }
+ }
+
+ @media (max-width:992px) {
+     .heading h1 {
+         font-size: 70px;
+     }
+
+     .heading span {
+         font-size: 80px;
+         top: 6px;
+     }
+
+     .contact_section .heading span {
+         font-size: 100px;
+         top: 0;
+     }
+
+     .project h3 {
+         font-size: 30px;
+     }
+
+     .project h2 {
+         font-size: 30px;
+     }
+
+     .btn_question {
+         font-size: 12px;
+     }
+
+     .about_section .heading span {
+         font-size: 120px;
+     }
+     
+
+     .header_section .social_mobile {
+         opacity: 0;
+     }
+
+     .name,
+     .email {
+         width: 48%;
+     }
+ }
+
+ @media (max-width:767px) {
+
+     .heading h1 {
+         font-size: 50px;
+     }
+
+     .heading span {
+         font-size: 50px;
+         top: 13px;
+     }
+
+     .header_section .social {
+         opacity: 0;
+     }
+
+     .header_section .social_mobile {
+         opacity: 1;
+     }
+
+     .about_section .heading span {
+         top: 43px;
+         font-size: 90px;
+     }
+     .about_section .heading h1 {
+         font-size: 55px;
+     }
+
+     .contact_section .heading span {
+         font-size: 63px;
+         top: 4px;
+     }
+
+ }
+
+ @media (max-width:575px) {
+
+
+     .banner_content span {
+         font-size: 30px;
+     }
+
+     .banner_content p {
+         font-size: 14px;
+     }
+
+     .btn_portfolio {
+         padding: 5px 20px;
+     }
+
+     .btn_download {
+         padding: 5px 20px;
+     }
+
+     .header_section .social_mobile {
+         opacity: 1;
+         bottom: 17%;
+     }
+
+     .about_section .heading h1 {
+         font-size: 50px;
+     }
+
+     .about_section .heading span {
+         font-size: 80px;
+         top: 35px;
+     }
+
+     .heading h1 {
+         font-size: 50px;
+     }
+
+     .heading span {
+         font-size: 45px;
+         margin-top: -1%;
+         top: 0;
+     }
+
+     .skill_section h4 {
+         font-size: 24px;
+     }
+
+     .nav-tabs .nav-link {
+         padding: 0px 10px;
+         font-size: 12px;
+     }
+
+     .project {
+         padding: 10px;
+     }
+
+     .project h3 {
+         font-size: 30px;
+     }
+
+     .project h2 {
+         font-size: 27px;
+     }
+
+     .contact_section .heading span {
+         top: 0;
+         margin-top: -3%;
+     }
+
+     .name,
+     .email {
+         width: 100%;
+         margin-left: 0 !important;
+         margin-right: 0 !important;
+     }
+
+ }
+
+
+ @media (max-width:440px) {
+     .banner_content h1 {
+         font-size: 20px;
+     }
+
+     .banner_content span {
+         font-size: 23px;
+     }
+
+     .btn_download {
+         margin-bottom: 5px;
+     }
+
+     .btn_portfolio {
+         margin-bottom: 5px;
+     }
+
+     .about_section .heading h1 {
+         font-size: 30px;
+     }
+
+     .about_section .heading span {
+         font-size: 45px;
+     }
+     .heading h1 {
+    font-size: 30px;
+}
+     .heading span {
+
+    font-size: 20px;
+
+}
+     .skill_section h4 {
+    font-size: 15px;
+}
+     .resume h3{
+         font-size: 17px;
+     }
+ }
